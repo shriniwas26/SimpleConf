@@ -1,0 +1,3 @@
+ip       = 192.168.1.4
+outgoing = 5000
+incoming = 5001
